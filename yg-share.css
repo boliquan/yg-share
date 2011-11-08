@@ -1,0 +1,11 @@
+/*
+YG-Share can also load yg-share.css from current theme directory
+Author: BoLiQuan
+*/
+
+.yg-share {
+	background:#F4F5F7;
+	border:1px dashed #CCC;	
+	padding:8px 12px 8px 12px;
+	margin:10px 0;	
+}
